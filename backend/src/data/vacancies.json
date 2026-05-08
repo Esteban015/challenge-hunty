@@ -1,0 +1,26 @@
+[
+  {
+    "id": "v-001",
+    "name": "QA Automation Engineer",
+    "area": "Engineering",
+    "location": "Mexico City, MX",
+    "description": "We are looking for a Senior QA Automation Engineer with 5+ years of experience. You will design and implement automated test frameworks using Playwright and Cucumber. Strong knowledge of JavaScript/TypeScript and CI/CD pipelines is required. You will collaborate closely with development teams to ensure quality across all products.",
+    "createdAt": "2026-05-01T10:00:00.000Z"
+  },
+  {
+    "id": "v-002",
+    "name": "Frontend Developer",
+    "area": "Product",
+    "location": "Guadalajara, MX",
+    "description": "Seeking a Senior Frontend Developer proficient in React, TypeScript, and modern CSS frameworks. You will build scalable UI components, define front-end architecture, and collaborate closely with design and product teams. 5+ years of professional frontend experience required.",
+    "createdAt": "2026-05-02T10:00:00.000Z"
+  },
+  {
+    "id": "v-003",
+    "name": "Product Manager",
+    "area": "Product",
+    "location": "Remote",
+    "description": "We are hiring a Product Manager to lead our core platform product. You will define roadmaps, work cross-functionally with engineering and design, and drive OKR achievement. 5+ years of PM experience in B2B SaaS required.",
+    "createdAt": "2026-05-03T10:00:00.000Z"
+  }
+]

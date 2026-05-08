@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c-001",
+    "vacancyId": "v-001",
+    "name": "Ana",
+    "lastName": "García",
+    "phone": "5215512345671",
+    "email": "ana.garcia@example.com",
+    "status": "contactado",
+    "conversationStage": "awaiting_acceptance",
+    "createdAt": "2026-05-07T09:00:00.000Z"
+  },
+  {
+    "id": "c-002",
+    "vacancyId": "v-001",
+    "name": "Carlos",
+    "lastName": "López",
+    "phone": "5215512345672",
+    "email": "carlos.lopez@example.com",
+    "status": "conversando",
+    "conversationStage": "awaiting_experience",
+    "createdAt": "2026-05-07T10:00:00.000Z"
+  },
+  {
+    "id": "c-003",
+    "vacancyId": "v-001",
+    "name": "María",
+    "lastName": "Martínez",
+    "phone": "5215512345673",
+    "email": "maria.martinez@example.com",
+    "status": "aprobado",
+    "conversationStage": "done",
+    "createdAt": "2026-05-06T11:00:00.000Z"
+  },
+  {
+    "id": "c-004",
+    "vacancyId": "v-001",
+    "name": "Pedro",
+    "lastName": "Sánchez",
+    "phone": "5215512345674",
+    "email": "pedro.sanchez@example.com",
+    "status": "descalificado",
+    "conversationStage": "done",
+    "createdAt": "2026-05-06T12:00:00.000Z"
+  },
+  {
+    "id": "c-005",
+    "vacancyId": "v-002",
+    "name": "Laura",
+    "lastName": "Hernández",
+    "phone": "5215512345675",
+    "email": "laura.hernandez@example.com",
+    "status": "contactado",
+    "conversationStage": "awaiting_acceptance",
+    "createdAt": "2026-05-08T08:00:00.000Z"
+  }
+]
