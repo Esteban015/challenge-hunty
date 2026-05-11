@@ -22,5 +22,205 @@
     "location": "Remote",
     "description": "We are hiring a Product Manager to lead our core platform product. You will define roadmaps, work cross-functionally with engineering and design, and drive OKR achievement. 5+ years of PM experience in B2B SaaS required.",
     "createdAt": "2026-05-03T10:00:00.000Z"
+  },
+  {
+    "id": "v-dd300cac",
+    "name": "Test Vacancy – Smoke",
+    "area": "Engineering",
+    "location": "Remote",
+    "description": "Automated smoke test vacancy",
+    "createdAt": "2026-05-10T16:26:58.057Z"
+  },
+  {
+    "id": "v-d0b56eb0",
+    "name": "QA Automation Engineer",
+    "area": "Engineering",
+    "location": "Mexico City, MX",
+    "description": "Looking for a senior QA Automation Engineer with Playwright expertise",
+    "createdAt": "2026-05-10T16:27:00.856Z"
+  },
+  {
+    "id": "v-24b42bfb",
+    "name": "Test Vacancy – Smoke",
+    "area": "Engineering",
+    "location": "Remote",
+    "description": "Automated smoke test vacancy",
+    "createdAt": "2026-05-10T16:37:20.523Z"
+  },
+  {
+    "id": "v-810dc0ee",
+    "name": "QA Automation Engineer",
+    "area": "Engineering",
+    "location": "Mexico City, MX",
+    "description": "Looking for a senior QA Automation Engineer with Playwright expertise",
+    "createdAt": "2026-05-10T16:37:22.425Z"
+  },
+  {
+    "id": "v-ea991c75",
+    "name": "WhatsApp Flow Test Vacancy",
+    "area": "QA",
+    "location": "Remote",
+    "description": "We are looking for a QA Automation Engineer with at least 5 years of hands-on experience.",
+    "createdAt": "2026-05-10T16:42:20.330Z"
+  },
+  {
+    "id": "v-1a368cf4",
+    "name": "WhatsApp Flow Test Vacancy",
+    "area": "QA",
+    "location": "Remote",
+    "description": "We are looking for a QA Automation Engineer with at least 5 years of hands-on experience.",
+    "createdAt": "2026-05-10T16:42:23.542Z"
+  },
+  {
+    "id": "v-3af0b655",
+    "name": "WhatsApp Flow Test Vacancy",
+    "area": "QA",
+    "location": "Remote",
+    "description": "We are looking for a QA Automation Engineer with at least 5 years of hands-on experience.",
+    "createdAt": "2026-05-10T16:42:26.857Z"
+  },
+  {
+    "id": "v-1d313423",
+    "name": "WhatsApp Flow Test Vacancy",
+    "area": "QA",
+    "location": "Remote",
+    "description": "We are looking for a QA Automation Engineer with at least 5 years of hands-on experience.",
+    "createdAt": "2026-05-10T16:42:29.908Z"
+  },
+  {
+    "id": "v-168dda88",
+    "name": "WhatsApp Flow Test Vacancy",
+    "area": "QA",
+    "location": "Remote",
+    "description": "We are looking for a QA Automation Engineer with at least 5 years of hands-on experience.",
+    "createdAt": "2026-05-10T16:42:33.519Z"
+  },
+  {
+    "id": "v-50ad4fb8",
+    "name": "Test Vacancy – Smoke",
+    "area": "Engineering",
+    "location": "Remote",
+    "description": "Automated smoke test vacancy",
+    "createdAt": "2026-05-10T16:42:36.588Z"
+  },
+  {
+    "id": "v-3bc1fc64",
+    "name": "QA Automation Engineer",
+    "area": "Engineering",
+    "location": "Mexico City, MX",
+    "description": "Looking for a senior QA Automation Engineer with Playwright expertise",
+    "createdAt": "2026-05-10T16:42:38.992Z"
+  },
+  {
+    "id": "v-209da969",
+    "name": "WhatsApp Flow Test Vacancy",
+    "area": "QA",
+    "location": "Remote",
+    "description": "We are looking for a QA Automation Engineer with at least 5 years of hands-on experience.",
+    "createdAt": "2026-05-10T16:45:51.886Z"
+  },
+  {
+    "id": "v-81b430b1",
+    "name": "WhatsApp Flow Test Vacancy",
+    "area": "QA",
+    "location": "Remote",
+    "description": "We are looking for a QA Automation Engineer with at least 5 years of hands-on experience.",
+    "createdAt": "2026-05-10T16:46:02.267Z"
+  },
+  {
+    "id": "v-0370de34",
+    "name": "WhatsApp Flow Test Vacancy",
+    "area": "QA",
+    "location": "Remote",
+    "description": "We are looking for a QA Automation Engineer with at least 5 years of hands-on experience.",
+    "createdAt": "2026-05-10T16:46:07.875Z"
+  },
+  {
+    "id": "v-97dc8ac2",
+    "name": "WhatsApp Flow Test Vacancy",
+    "area": "QA",
+    "location": "Remote",
+    "description": "We are looking for a QA Automation Engineer with at least 5 years of hands-on experience.",
+    "createdAt": "2026-05-10T16:46:15.853Z"
+  },
+  {
+    "id": "v-7d17ae84",
+    "name": "WhatsApp Flow Test Vacancy",
+    "area": "QA",
+    "location": "Remote",
+    "description": "We are looking for a QA Automation Engineer with at least 5 years of hands-on experience.",
+    "createdAt": "2026-05-10T16:46:23.754Z"
+  },
+  {
+    "id": "v-d629cfb4",
+    "name": "Test Vacancy – Smoke",
+    "area": "Engineering",
+    "location": "Remote",
+    "description": "Automated smoke test vacancy",
+    "createdAt": "2026-05-10T16:46:33.281Z"
+  },
+  {
+    "id": "v-473a2ce5",
+    "name": "QA Automation Engineer",
+    "area": "Engineering",
+    "location": "Mexico City, MX",
+    "description": "Looking for a senior QA Automation Engineer with Playwright expertise",
+    "createdAt": "2026-05-10T16:46:35.864Z"
+  },
+  {
+    "id": "v-ad87c99f",
+    "name": "Test Vacancy – Smoke",
+    "area": "Engineering",
+    "location": "Remote",
+    "description": "Automated smoke test vacancy",
+    "createdAt": "2026-05-10T16:51:36.271Z"
+  },
+  {
+    "id": "v-8f902c76",
+    "name": "Test Vacancy – Smoke",
+    "area": "Engineering",
+    "location": "Remote",
+    "description": "Automated smoke test vacancy",
+    "createdAt": "2026-05-10T16:51:45.727Z"
+  },
+  {
+    "id": "v-30720989",
+    "name": "Test Vacancy – Smoke",
+    "area": "Engineering",
+    "location": "Remote",
+    "description": "Automated smoke test vacancy",
+    "createdAt": "2026-05-10T16:51:51.211Z"
+  },
+  {
+    "id": "v-09d2715c",
+    "name": "Test Vacancy – Smoke",
+    "area": "Engineering",
+    "location": "Remote",
+    "description": "Automated smoke test vacancy",
+    "createdAt": "2026-05-10T16:51:58.769Z"
+  },
+  {
+    "id": "v-1b7f37f8",
+    "name": "Test Vacancy – Smoke",
+    "area": "Engineering",
+    "location": "Remote",
+    "description": "Automated smoke test vacancy",
+    "createdAt": "2026-05-10T16:52:06.108Z"
+  },
+  {
+    "id": "v-9c823c28",
+    "name": "Test Vacancy – Smoke",
+    "area": "Engineering",
+    "location": "Remote",
+    "description": "Automated smoke test vacancy",
+    "createdAt": "2026-05-10T16:52:15.502Z"
+  },
+  {
+    "id": "v-b8ea73e3",
+    "name": "QA Automation Engineer",
+    "area": "Engineering",
+    "location": "Mexico City, MX",
+    "description": "Looking for a senior QA Automation Engineer with Playwright expertise",
+    "createdAt": "2026-05-10T16:52:17.919Z"
   }
 ]

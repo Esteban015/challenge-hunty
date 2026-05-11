@@ -1,0 +1,10 @@
+{
+  "default": {
+    "paths": ["features/**/*.feature"],
+    "require": ["support/world.js", "support/hooks.js", "steps/**/*.js"],
+    "format": ["progress-bar", "html:reports/report.html"],
+    "formatOptions": {
+      "snippetInterface": "async-await"
+    }
+  }
+}
