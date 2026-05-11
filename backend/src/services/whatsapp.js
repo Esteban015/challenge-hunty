@@ -161,7 +161,9 @@ export function connectToWhatsApp() {
     authStrategy: new LocalAuth({ dataPath: SESSION_DIR }),
     puppeteer: {
       headless: true,
-      executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+      executablePath: process.platform === 'win32'
+        ? 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+        : '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
       args: [
         '--no-sandbox',
         '--disable-setuid-sandbox',

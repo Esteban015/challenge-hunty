@@ -53,5 +53,60 @@
     "status": "contactado",
     "conversationStage": "awaiting_acceptance",
     "createdAt": "2026-05-08T08:00:00.000Z"
+  },
+  {
+    "id": "c-d2da04a7",
+    "vacancyId": "v-001",
+    "name": "Esteban",
+    "lastName": "Amaya",
+    "phone": "543816293667",
+    "email": "estebanamaya015@gmail.com",
+    "status": "contactado",
+    "conversationStage": "awaiting_acceptance",
+    "createdAt": "2026-05-10T15:38:30.447Z"
+  },
+  {
+    "id": "c-ec47ea10",
+    "vacancyId": "v-001",
+    "name": "Esteban",
+    "lastName": "Amaya",
+    "phone": "5493816293667",
+    "email": "estebanamaya015@gmail.com",
+    "status": "contactado",
+    "conversationStage": "awaiting_acceptance",
+    "createdAt": "2026-05-10T15:39:12.379Z"
+  },
+  {
+    "id": "c-56bec422",
+    "vacancyId": "v-001",
+    "name": "Test",
+    "lastName": "Nuevo",
+    "phone": "5493816293667",
+    "email": "estebanamaya015@gmail.com",
+    "status": "contactado",
+    "conversationStage": "awaiting_acceptance",
+    "createdAt": "2026-05-10T16:20:23.210Z"
+  },
+  {
+    "id": "c-f2d72b18",
+    "vacancyId": "v-1b7f37f8",
+    "name": "Test",
+    "lastName": "Candidate",
+    "phone": "5493814017630",
+    "email": "test.candidate@automation.com",
+    "status": "aprobado",
+    "conversationStage": "done",
+    "createdAt": "2026-05-10T16:52:06.117Z"
+  },
+  {
+    "id": "c-5e56a4f7",
+    "vacancyId": "v-9c823c28",
+    "name": "Juan",
+    "lastName": "Pérez",
+    "phone": "5493814017630",
+    "email": "juan.perez@test.com",
+    "status": "contactado",
+    "conversationStage": "awaiting_acceptance",
+    "createdAt": "2026-05-10T16:52:16.187Z"
   }
 ]
